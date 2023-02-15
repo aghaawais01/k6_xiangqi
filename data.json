@@ -1,0 +1,19 @@
+{
+  "users": [
+    { "email": "loadtest1@xiangqi.com", "password": "edx" },
+    { "email": "loadtest2@xiangqi.com", "password": "edx" },
+    { "email": "loadtest3@xiangqi.com", "password": "edx" },
+    { "email": "loadtest4@xiangqi.com", "password": "edx" },
+    { "email": "loadtest5@xiangqi.com", "password": "edx" },
+    { "email": "loadtest6@xiangqi.com", "password": "edx" },
+    { "email": "loadtest7@xiangqi.com", "password": "edx" },
+    { "email": "loadtest8@xiangqi.com", "password": "edx" },
+    { "email": "loadtest9@xiangqi.com", "password": "edx" },
+    { "email": "loadtest10@xiangqi.com", "password": "edx" },
+    { "email": "loadtest11@xiangqi.com", "password": "edx" },
+    { "email": "loadtest12@xiangqi.com", "password": "edx" },
+    { "email": "loadtest13@xiangqi.com", "password": "edx" },
+    { "email": "loadtest14@xiangqi.com", "password": "edx" },
+    { "email": "loadtest15@xiangqi.com", "password": "edx" }
+  ]
+}
