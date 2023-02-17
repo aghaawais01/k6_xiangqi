@@ -1,0 +1,9 @@
+{
+	"users": [
+		{ "email": "loadtest6@xiangqi.com", "password": "edx" },
+		{ "email": "loadtest7@xiangqi.com", "password": "edx" },
+		{ "email": "loadtest8@xiangqi.com", "password": "edx" },
+		{ "email": "loadtest9@xiangqi.com", "password": "edx" },
+		{ "email": "loadtest11@xiangqi.com", "password": "edx" }
+	]
+}
